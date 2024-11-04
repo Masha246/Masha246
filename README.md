@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## 🌱 I’m currently learning QA Engineeering
-[Telegram] (@nekrashevichm)
+[Telegram](@nekrashevichm)
 
 <!--
 **Masha246/Masha246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
