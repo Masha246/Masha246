@@ -1,5 +1,6 @@
 ## Hi there 👋
 ## 🌱 I’m currently learning QA Engineering
+![icons8-телеграм-48](https://github.com/user-attachments/assets/97e211fc-5f17-4bd9-9fc5-235bacdc3583)
 [Telegram](https://t.me/nekrashevichm)
 
 
