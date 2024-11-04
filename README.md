@@ -1,5 +1,5 @@
 ## Hi there 👋
-## 🌱 I’m currently learning QA Engineeering
+## 🌱 I’m currently learning QA Engineering
 
 
 <!--
