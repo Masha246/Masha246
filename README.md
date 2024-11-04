@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## 🌱 I’m currently learning QA Engineering
-##[Telegram](https://t.me/nekrashevichm)
+[Telegram](https://t.me/nekrashevichm)
 
 
 <!--
